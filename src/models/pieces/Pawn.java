@@ -1,7 +1,6 @@
 package models.pieces;
 
 import models.Color;
-import models.Position;
 import models.moves.Move;
 
 public class Pawn extends Piece{

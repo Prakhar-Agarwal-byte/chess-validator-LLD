@@ -5,6 +5,7 @@ In my solution I have used:
 
 Design Patterns:
 1. Strategy Pattern
+2. Abstract Factory Pattern
 
 Note: Implement all moves
 

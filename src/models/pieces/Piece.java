@@ -1,8 +1,6 @@
 package models.pieces;
 
-import models.Cell;
 import models.Color;
-import models.Position;
 import models.moves.Move;
 
 public abstract class Piece {

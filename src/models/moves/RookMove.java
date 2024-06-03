@@ -4,7 +4,6 @@ import exceptions.InvalidMoveException;
 import models.Board;
 import models.Cell;
 import models.Position;
-import models.pieces.Pawn;
 import models.pieces.Piece;
 import models.pieces.Rook;
 
